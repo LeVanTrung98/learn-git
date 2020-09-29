@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 file 1
+=======
+file 1
+
+flie 1.1
+>>>>>>> first commit
