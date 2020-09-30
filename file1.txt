@@ -8,6 +8,9 @@ file: 1.1.1.1
 
 git branch and merge
 
+merge
+    add branch feature branch-merge
+    commit second into feature branch-merge
 
-add branch feature branch-merge
-commit second into feature branch-merge
+reabse 
+    first commit reabse
