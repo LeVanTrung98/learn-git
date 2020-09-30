@@ -17,3 +17,7 @@ reabse
     second commit reabse
     thirth commit reabse
         add child branch from branch-merge
+
+
+differance merge - reabse
+    merge
