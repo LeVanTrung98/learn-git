@@ -10,3 +10,4 @@ git branch and merge
 
 
 add branch feature branch-merge
+commit second into feature branch-merge
