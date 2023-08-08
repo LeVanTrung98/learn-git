@@ -1,1 +1,23 @@
 // change 1
+
+// change 2
+
+// use 
+
+Simply use this 2 commands to change the commit message of your last push
+
+git commit --amend -m "New commit message"
+
+git push --force
+
+
+rename first commit message 
+
+# checkout the root commit
+git checkout <sha1-of-root>
+
+# amend the commit
+git commit --amend
+
+# rebase all the other commits in master onto the amended root
+git rebase --onto HEAD HEAD master
