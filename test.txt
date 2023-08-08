@@ -1,0 +1,13 @@
+first change
+
+second change
+
+third change
+
+How to:
+
+1. git rebase -i HEAD~number
+2. chon r( reword = use commit, but edit the commit message) cho commit muon thay doi message
+3. change the message 
+4. :wq
+5. git push <origin> -f
